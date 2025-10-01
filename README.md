@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prathamdebugentity
-- 👀 I’m interested in ...
+- 👀 I’m interested in Devops/ Cloud
 - 🌱 I’m currently learning ... C / C++  
-- 💞️ I’m looking to collaborate on ... biggest leading tech firms
+- 💞️ I’m looking to collaborate on biggest leading tech firms
 - 📫 How to reach me ... 8095502321
 
 <!---
